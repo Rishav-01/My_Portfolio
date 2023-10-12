@@ -98,6 +98,7 @@ hr {
 }
 
 .work{
+    height: 58vh;
     border-radius: 10px;
     position: relative;
     overflow: hidden;
@@ -111,6 +112,7 @@ hr {
 }
 .layer{
     height: 0;
+    width: 100%;
     background: linear-gradient(rgba(0,0,0,0.4), #1C82AD);
     border-radius: 10px;
     position: absolute;
